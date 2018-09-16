@@ -14,9 +14,10 @@ Contains powershell modules, see more info in [README](./Modules/README.md)
 
 Below I collected some useful snippets
 
-$1754425
-$1754424
-$1754422
-$1754421
-$1754420
-$1754419
+- [Invoke-Expression Advanced]($1754426)
+- [Powershell Credentials]($1754425)
+- [Usage of Parameters]($1754424)
+- [Show Certificates]($1754422)
+- [Resize Partition]($1754421)
+- [Calculate Folder Size]($1754420)
+- [Security Question]($1754419)
