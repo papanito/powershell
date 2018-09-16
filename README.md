@@ -12,11 +12,6 @@ Contains powershell modules, see more info in [README](./Modules/README.md)
 
 ## Snippets
 
-Below I collected some useful snippets
+Here you can find some snippets I have collected:
 
-$1754425
-$1754424
-$1754422
-$1754421
-$1754420
-$1754419
+https://gitlab.com/papanito/powershell/snippets
